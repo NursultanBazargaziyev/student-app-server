@@ -1,0 +1,18 @@
+# Compiled class files and other build artifacts
+/target/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven wrapper files
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Ignore any log files
+*.log
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
